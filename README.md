@@ -21,6 +21,7 @@ Possuo mais de 10 anos de experiência no setor de Tecnologia da Informação, i
 <!-- Portfolio -->
 ## Portfólio:
 - [API para gerenciamento de tarefas](https://github.com/nyneferreira/to-dolist)
+- [API para gerenciamento de usuários](https://github.com/nyneferreira/cadastro-usuario)
 
 
 ## 🔥 Habilidades Técnicas
